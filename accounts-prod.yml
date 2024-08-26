@@ -2,7 +2,7 @@ build:
  version: "1.0"
 
 accounts:
- message: "Welcome to AmitBank accounts related Prod APIs "
+ message: "Welcome to AmitBank accounts related webhooks APIs "
  contactDetails:
   name: "Amit Mandal - Product Owner"
   email: "{cipher}8697308d036bafe0e664d5a3abc0624938b8c024b0303704fba990f926a89a55ca2cab9ef751d8893fa1af262c858e17"
