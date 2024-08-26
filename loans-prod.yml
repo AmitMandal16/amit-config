@@ -2,7 +2,7 @@ build:
  version: "1.0"
 
 cards:
- message: "Welcome to AmitBank loans related Prod APIs "
+ message: "Welcome to AmitBank loans related Prods APIs "
  contactDetails:
   name: "Amit Mandal - Product Owner"
   email: "amit.mandal.2209@gmail.com"
